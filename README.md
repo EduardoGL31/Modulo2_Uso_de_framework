@@ -1,3 +1,5 @@
+# **Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución.**
+
 El dataset que seleccione nos sirve para poder predecir el tipo de arroz sabiendo el cammeo y osmancik.
 
 Se tomaron un total de 3810 imágenes de granos de arroz para las dos especies, se procesaron y se hicieron inferencias de características.
